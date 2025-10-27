@@ -2,10 +2,15 @@
 share: true
 filename: index
 created: 2025-06-10T11:02
-updated: 2025-10-27T15:14
+updated: 2025-10-27T15:19
 title: 🌟 Mở đầu
 ---
-
+I'm replaced
+I'm replaced
+I'm replaced
+I'm replaced
+I'm replaced
+I'm replaced
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Pgxweff5AjQ?si=HdxJFn7FmfmCFgoP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ![What are the different kinds of intentional community? - YouTube](https://youtu.be/GlgGxhzkwoE?si=S85MwXHP5diiJ9zv)
